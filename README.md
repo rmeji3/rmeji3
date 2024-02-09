@@ -5,8 +5,6 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5zMXRnZzh2MHk5bXptemxld3Z4dm15enhvdnVnY3dycnk0eTRteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmeji3&label=Profile%20views&color=0e75b6&style=flat" alt="rmeji3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmeji3" alt="rmeji3" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **Rafaelm120403@gmail.com**
