@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Rafaelm120403@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GQD7BMox1GrNu2s1rCQm689VMlJX6dLsPcb-4bGnnWM/edit?usp=sharing](https://docs.google.com/document/d/1GQD7BMox1GrNu2s1rCQm689VMlJX6dLsPcb-4bGnnWM/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1GQD7BMox1GrNu2s1rCQm689VMlJX6dLsPcb-4bGnnWM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
