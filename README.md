@@ -1,4 +1,4 @@
-F![RAFAEL MEJIA](https://github.com/rmeji3/rmeji3/assets/113409260/49f5fc96-7531-4639-ae30-7f271c82bb4d)
+![RAFAEL MEJIA](https://github.com/rmeji3/rmeji3/assets/113409260/49f5fc96-7531-4639-ae30-7f271c82bb4d)
 <h1 align="center">Hi 👋, I'm Rafael Mejia</h1>
 
 <h3 align="center">Dedicated Computer Science undergraduate at the University of Illinois Chicago, with a keen interest in blending technical skills and creativity in projects</h3>
