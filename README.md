@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **Rafaelm120403@gmail.com**
+- 📫 How to reach me: [My Personal Website](https://rafaelmejia.me/)
 
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1GQD7BMox1GrNu2s1rCQm689VMlJX6dLsPcb-4bGnnWM/edit?usp=sharing)
 
