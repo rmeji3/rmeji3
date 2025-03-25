@@ -1,11 +1,11 @@
 ![RAFAEL MEJIA](https://github.com/rmeji3/rmeji3/assets/113409260/49f5fc96-7531-4639-ae30-7f271c82bb4d)
 <h1 align="center">Hi 👋, I'm Rafael Mejia</h1>
 
-<h3 align="center">Dedicated Computer Science undergraduate at the University of Illinois Chicago, with a keen interest in blending technical skills and creativity in projects</h3>
+<h3 align="center">Computer Science undergraduate at the University of Illinois Chicago</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5zMXRnZzh2MHk5bXptemxld3Z4dm15enhvdnVnY3dycnk0eTRteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmeji3&label=Profile%20views&color=0e75b6&style=flat" alt="rmeji3" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **ReactJS, ASP.NET, and React Native**
 
 - 📫 How to reach me: [My Personal Website](https://rafaelmejia.me/)
 
