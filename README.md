@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmeji3&label=Profile%20views&color=0e75b6&style=flat" alt="rmeji3" /> </p>
 
-- 🔭 Currently building **[Ping App](https://ping-app.net)** — a location-based social app for iOS (React Native, ASP.NET Core, PostgreSQL, Redis)
-- ☸️ Deep-diving into **Kubernetes** — ran two internships on Azure Kubernetes Service at Microsoft, building local k3s clusters and working toward operator development in Go
-- 💼 **2x Microsoft SWE Intern** — Azure Kubernetes Service, cloud infrastructure & AI/ML workloads on AKS
-- 📫 Reach me: [rafaelmejia.me](https://rafaelmejia.me/)
-- 📄 My experience: [Resume](https://drive.google.com/file/d/17RgR_8iTKqkB4IOh7xzZp4BmfJhAjxQL/view?usp=sharing)
+-  Currently building **[Ping App](https://ping-app.net)** — a location-based social app for iOS (React Native, ASP.NET Core, PostgreSQL, Redis)
+-  Deep-diving into **Kubernetes** — ran two internships on Azure Kubernetes Service at Microsoft, building local k3s clusters and working toward operator development in Go
+-  **2x Microsoft SWE Intern** — Azure Kubernetes Service, cloud infrastructure & AI/ML workloads on AKS
+-  Reach me: [rafaelmejia.me](https://rafaelmejia.me/)
+-  My experience: [Resume](https://drive.google.com/file/d/17RgR_8iTKqkB4IOh7xzZp4BmfJhAjxQL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
